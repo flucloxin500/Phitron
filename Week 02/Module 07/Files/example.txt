@@ -1,0 +1,6 @@
+This is Me for anyday 
+25
+53.25
+True
+False
+Hello World
