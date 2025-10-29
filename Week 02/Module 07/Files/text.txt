@@ -1,4 +1,8 @@
 Second Attempt
-Welcome to Python programmingThird Attempt
-I'm not enjoying thisThird Attempt
-I'm not enjoying thisHelloHiHeyHolaBonjour
+Welcome to Python programming
+Third Attempt
+I'm not enjoying this
+Third Attempt
+I'm not enjoying this
+HelloHiHeyHolaBonjour
+Walid

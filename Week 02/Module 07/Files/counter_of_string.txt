@@ -1,0 +1,3 @@
+Number of lines: 8
+Total number of words: 20
+Total number of characters (without spaces): 125
